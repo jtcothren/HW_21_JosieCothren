@@ -1,0 +1,16 @@
+.bannerTitle{
+    font-size: 145px;
+    font-weight: 900;
+    font-family: 'Londrina Solid', cursive;
+
+}
+
+.jumbotron {
+    background-image: url("../images/GettyImages-175321610-scaled.jpeg");
+    background-size: cover;
+  }
+
+  .jumbotronTutorial {
+    background-image: url("../images/tieDyePattern8.jpeg") !important;
+    background-size: cover;
+  }
